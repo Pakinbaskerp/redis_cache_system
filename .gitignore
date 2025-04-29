@@ -1,0 +1,20 @@
+# Ignore Visual Studio build folders
+bin/
+obj/
+
+# Ignore other common .NET stuff
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+*.dll
+*.exe
+*.app
+*.cache
+*.pdb
+
+# Ignore Mac and Windows system files
+.DS_Store
+Thumbs.db
